@@ -1,0 +1,6 @@
+en:
+  event:
+    status:
+      before_organize: "Preparing"
+      on_organize: "Registration accepted"
+      after_organize: "Finished"

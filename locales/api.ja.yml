@@ -1,0 +1,6 @@
+ja:
+  event:
+    status:
+      before_organize: "準備中"
+      on_organize: "登録受付中"
+      after_organize: "終了"
